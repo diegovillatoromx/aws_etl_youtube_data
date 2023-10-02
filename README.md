@@ -1,5 +1,5 @@
 # AWS ETL Data Pipeline: Python Tutorial with YouTube Data
-In today's digital landscape, YouTube stands as a global powerhouse with over 2.6 billion monthly users, ranking among the most frequented websites worldwide. Imagine your company embarking on a data-driven marketing campaign, and you've been entrusted with the task of optimizing advertising strategies. Which platform would be the go-to choice for such a campaign? Undoubtedly, it's YouTube!
+In today's digital landscape, YouTube stands as a global powerhouse with over 2.6 billion monthly users, ranking among the most frequented websites worldwide. Imagine your company embarking on a data-driven marketing campaign, and you've been entrusted with the task of optimizing advertising strategies. Which platform would be the go-to choice for such a campaign? Undoubtedly, it's YouTube! 
 
 
 ## Table of Contents
