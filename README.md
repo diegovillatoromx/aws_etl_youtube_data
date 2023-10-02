@@ -23,3 +23,14 @@ In this Python-based ETL (Extract, Transform, Load) Pipeline project, we harness
 
 Within this dataset, you'll find a treasure trove of video-related information, including video titles, channel titles, publication timestamps, tags, view counts, likes and dislikes, video descriptions, and comment counts. Notably, each video record includes a 'category_id' field, unique to each region or area, which is referenced in the accompanying JSON file, providing valuable contextual insights for data processing and analysis.
 
+
+## Contribution
+  1. Focus changes on specific improvements.
+  2. Follow project's coding style.
+  3. Provide detailed descriptions in pull requests.
+  4. 
+## Reporting Issues
+  Use "Issues" to report bugs or suggest improvements.
+# Contact
+For questions or contact, my [Mail](diegovillatormx@gmail.com) or [Twitter](https://twitter.com/diegovillatomx) .
+
