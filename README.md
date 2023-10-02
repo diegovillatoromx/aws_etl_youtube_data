@@ -19,7 +19,7 @@ The overarching goal is unmistakably defined: extract valuable insights to optim
 Introducing our project, meticulously engineered to excel in the secure management, refinement, and dissection of both structured and semi-structured YouTube video data. Our primary focus revolves around the precise categorization of videos and the meticulous evaluation of their performance against trending metrics. Through these endeavors, we ensure that your campaign resonates with its intended audience and attains the prominence it deserves.
 
 ## Datset
-In this Python-based ETL (Extract, Transform, Load) Pipeline project, we harness the power of the Kaggle YouTube video dataset, which comprises a wealth of information on up to 200 trending videos published daily across various locations. The dataset is structured into separate files, each corresponding to a specific region, ensuring regional relevance.
+In this Python-based ETL (Extract, Transform, Load) Pipeline project, we harness the power of the [Kaggle YouTube video dataset](https://www.kaggle.com/datasets/datasnaek/youtube-new), which comprises a wealth of information on up to 200 trending videos published daily across various locations. The dataset is structured into separate files, each corresponding to a specific region, ensuring regional relevance.
 
 Within this dataset, you'll find a treasure trove of video-related information, including video titles, channel titles, publication timestamps, tags, view counts, likes and dislikes, video descriptions, and comment counts. Notably, each video record includes a 'category_id' field, unique to each region or area, which is referenced in the accompanying JSON file, providing valuable contextual insights for data processing and analysis.
 
